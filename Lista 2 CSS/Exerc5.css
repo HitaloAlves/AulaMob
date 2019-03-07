@@ -1,0 +1,14 @@
+ul li{
+	list-style-image: url(seta.jpg);
+	color: red;
+	font-family: verdana;
+	border:1px red;
+	border-bottom-style: dotted;
+}
+ul li:hover{
+	list-style-image: url(setav.jpg);
+	color: green;
+	font-family: verdana;
+	border:1px green;
+	border-bottom-style: dotted;
+}

@@ -1,0 +1,41 @@
+.grid-4, .grid-12{
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.grid-4{
+	width:50px;
+	
+}
+.grid-12{
+	width: 800px;
+	text-align: right; 
+}
+
+.grid-12 ul li{
+	display: inline-block;
+	margin-left: 20px;
+	margin-top: 25px;
+}
+.grid-12 ul li a{
+	font-size: 30px;
+	font-family: "Arial", sans-serif;
+	font-weight: bold;
+	text-decoration: none;  
+}
+
+.grid-12 ul li a:hover{
+	text-decoration: overline;
+}
+.not{
+	color: red;
+}
+.esp{
+	color: green;
+}
+.ent{
+	color: orange;
+}
+.vid{
+	color: blue;
+}
