@@ -1,0 +1,60 @@
+
+a:link.qa{
+	text-decoration: none;
+}
+
+
+a:link.qb{
+	text-decoration: overline;		
+}
+a:active.qb{
+	text-decoration: line-through;
+}
+a:visited.qb{
+	text-decoration: underline;
+}
+
+
+a:link.qc{
+	color: orange;
+}
+a:hover.qc{
+	color: green;
+	text-decoration: underline;
+}
+
+
+a:link.qd{
+	border-color:blue;
+	border-style: solid;
+	background: black;
+	color:white;
+}
+a:hover.qd{
+	border-style: dotted;
+	border-color: black;
+	background: white;
+	color: black;
+}
+
+
+a:link.qe{
+	color: red;
+	text-decoration: none;
+}
+
+a:visited.qe{
+	font-style: italic;
+	font-weight: bold;
+	color: orange;
+	text-decoration: none;
+}
+
+a:hover.qe{
+	text-decoration: underline;
+}
+
+a:active.qe{
+	color: yellow;
+	text-decoration: none;
+}
